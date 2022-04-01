@@ -1,2 +1,3 @@
-# Readme  file 
-## this is
+# MARKDOWN SYNTAX
+______________________________
+## some basic syntax in markdown
